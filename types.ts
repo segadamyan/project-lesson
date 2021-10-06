@@ -4,3 +4,7 @@ function padLeft(padding: number | string, input: string) {
     }
     return padding + input;
 }
+
+function first() {
+    return "Yes";
+}
