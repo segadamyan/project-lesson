@@ -5,5 +5,5 @@ function padLeft(padding, input) {
     return padding + input;
 }
 function first() {
-    return "Yes";
+    return "Yes + 1";
 }
